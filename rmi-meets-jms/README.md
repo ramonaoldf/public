@@ -1,1 +1,1 @@
-This project was moved into [https://github.com/ttulka/rmi-meets-jms](https://github.com/ttulka/rmi-meets-jms).
+This project was moved into [https://github.com/ramonaoldf/rmi-meets-jms](https://github.com/ramonaoldf/rmi-meets-jms).
